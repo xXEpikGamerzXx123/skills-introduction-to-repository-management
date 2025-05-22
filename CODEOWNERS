@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @xXEpikGamerzXx123
+/src/backend/database.py      @xXEpikGamerzXx123
+/src/backend/routers/auth.py  @xXEpikGamerzXx123
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @xXEpikGamerzXx123
